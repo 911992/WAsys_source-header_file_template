@@ -1,4 +1,4 @@
-GUI online tool: <<soon>
+GUI online tool: https://911992.github.io/c-source-header-file-template-generator.html
 Copy paste the template, find and replace the following with appreciated value
 
 In header file:
